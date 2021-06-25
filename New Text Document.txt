@@ -1,0 +1,10 @@
+it status
+git init
+git config --global user.name"Farooqe"
+git config --global user.email"abu.bireporting@gmail.com"
+
+git config --list
+touch file name 
+git add .
+git commit -m "firstfile"
+git status
